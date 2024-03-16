@@ -25,7 +25,9 @@ DISCLAIMER:
 This software has no warranty or support. If you're nice and submit an issue, I might be able to help. I'm not responsible if you break your Under Display Monitor. You as the user assumes all risk. 
 
 
+
 Additional Reading/Resources:
 
 Hack-A-Day Article on the RDU-1500: https://hackaday.io/project/193759-image-video-rdu-1500-dot-matrix-display
+
 Chinese Document That Breaks down the protocol (Linked in Hack-A-Day Article): https://max.book118.com/html/2017/1213/143972364.shtm
