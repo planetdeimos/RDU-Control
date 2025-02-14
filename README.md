@@ -5,7 +5,7 @@ This python code is intended to provide a boilerplate framework to use a RDU-150
 How to use:
 
 Setup a serial connection between the RDU-1500 and a serial interface on the controlling computer. 
-- The RDU1500 uses only RJ11 connector pins 2 and 3 for serial RX and Ground.
+The RDU1500 uses only RJ11 connector pins 2 and 3 for serial RX and Ground.
   - Pin 1: No Connection
   - Pin 2: RX
   - Pin 3: GND
